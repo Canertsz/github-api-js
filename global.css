@@ -1,0 +1,21 @@
+a, a:hover, a:focus, a:active a:focus {
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+}
+
+.dark {
+    background-color: rgb(26, 26, 26) !important;
+}
+
+.dark-card {
+    background-color: rgb(47, 47, 47) !important;
+}
+
+.dark-input {
+    background-color: rgb(83, 83, 83) !important;
+}
+
+.dark-text {
+    color: #fff !important; 
+}
